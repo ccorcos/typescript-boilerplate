@@ -14,5 +14,7 @@ npm start
 
 ## To Do
 
+- elmish version with subscriptions
+
 - figure out how to make redux type definitions sound
 - maybe build your own sound version of redux that can use all the middleware
