@@ -12,6 +12,7 @@ build({
 	outfile: path("build/index.js"),
 	bundle: true,
 	sourcemap: watch ? "inline" : false,
+	sourcesContent: watch ? true : false,
 	watch: watch,
 	clear: false,
 	// pass any options to esbuild here...
